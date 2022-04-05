@@ -8,10 +8,8 @@ I want to add some some fetures also in this web site so it look good i am worki
 
 ## User guide
 
-This is what web site look like
-
-Image Name:Index.png
-
+This is what web site look like<br/>
+! [Image] (https://github.com/Prit2341/Youtube-Web/blob/master/Index.png?raw=True)
 
 ## Steps to download Video
 First Copy your Youtube video Link
