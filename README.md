@@ -17,3 +17,16 @@ pip install flask
 ```
 after completing the installation of the Flask
 You Have To Open the cmd in that folder
+
+<img width = "2000" alt = "Photo" src = "https://github.com/Prit2341/Youtube-Web/blob/master/Images/Screenshot%20(55).png">
+
+First write the command for the seting the application of the flask
+```python
+pip install flask
+```
+
+After that for the running the server on locally
+```python
+python -m flask run
+```
+than the megic happens
