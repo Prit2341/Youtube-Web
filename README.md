@@ -22,7 +22,7 @@ You Have To Open the cmd in that folder
 
 First write the command for the seting the application of the flask
 ```python
-pip install flask
+set FLASK_APP = back1.py
 ```
 
 After that for the running the server on locally
